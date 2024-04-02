@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Blueprints/Enums/E_CharacterClass.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Blueprints/Character/BP_Base_Character.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Blueprints/DataTables/DT_AvailableCharacters.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Maps/M_Demo.umap"
+			]
+		}
+	]
+}
