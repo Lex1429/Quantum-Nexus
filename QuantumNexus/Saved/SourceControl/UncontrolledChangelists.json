@@ -11,7 +11,11 @@
 				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Maps/M_Demo.umap",
 				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Blueprints/BFL_Helper.uasset",
 				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Widgets/WB_MainMenu.uasset",
-				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Widgets/WB_LobbyMenu.uasset"
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Widgets/WB_LobbyMenu.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Blueprints/Components/BP_Abilities_Component.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Blueprints/System/BP_Base_PlayerState.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Blueprints/System/BP_Base_GameMode.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum-Nexus/QuantumNexus/Content/SurvivorsTemplate/Widgets/WB_HostMenu.uasset"
 			]
 		}
 	]
